@@ -1,0 +1,4 @@
+#Wed Oct 25 11:35:32 CEST 2017
+base.0=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_74184ece7901e6e71898987faaa63b46750a377f
+renamed.0=classes.dex
+file.0=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_74184ece7901e6e71898987faaa63b46750a377f/classes.dex

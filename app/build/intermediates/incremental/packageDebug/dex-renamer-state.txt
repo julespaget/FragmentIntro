@@ -1,0 +1,7 @@
+#Mon Nov 06 09:13:56 CET 2017
+base.0=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4fb8768e90f2eacf35d684c134f4590ba099b09c
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a1461efcaef8cf610d9c627c4ee492a05e43178e/classes.dex
+base.1=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a1461efcaef8cf610d9c627c4ee492a05e43178e
+file.0=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4fb8768e90f2eacf35d684c134f4590ba099b09c/classes.dex

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9872e9966bedf3cd40a5f953eb8976903cfd3ed">
+        <dex dex="/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4fb8768e90f2eacf35d684c134f4590ba099b09c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a1461efcaef8cf610d9c627c4ee492a05e43178e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/paget/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_74184ece7901e6e71898987faaa63b46750a377f/classes.dex" />
+    </item>
+
+</items>

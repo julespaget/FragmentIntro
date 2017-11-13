@@ -1,0 +1,36 @@
+#Internal package file, do not edit.
+#Mon Nov 06 09:13:56 CET 2017
+2.base=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+5.set=ANDROID_RESOURCE
+3.base=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_
+6.file=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_/res/layout/article_list_layout.xml
+2.set=ANDROID_RESOURCE
+10.set=ANDROID_RESOURCE
+10.file=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+4.base=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_
+7.file=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_/res/layout-large-v4/activity_main.xml
+7.set=ANDROID_RESOURCE
+count=11
+0.file=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_
+8.file=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a1461efcaef8cf610d9c627c4ee492a05e43178e/classes.dex
+4.set=ANDROID_RESOURCE
+6.base=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_
+1.file=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_/res/layout/article_list_item.xml
+9.set=DEX
+9.file=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4fb8768e90f2eacf35d684c134f4590ba099b09c/classes.dex
+10.base=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_
+1.set=ANDROID_RESOURCE
+7.base=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_
+2.file=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_
+8.base=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a1461efcaef8cf610d9c627c4ee492a05e43178e
+3.file=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_/res/layout/article_reader_layout.xml
+3.set=ANDROID_RESOURCE
+1.base=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_
+9.base=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4fb8768e90f2eacf35d684c134f4590ba099b09c
+4.file=/home/paget/AndroidStudioProjects/FragmentIntro/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+8.set=DEX
+0.set=ANDROID_RESOURCE
